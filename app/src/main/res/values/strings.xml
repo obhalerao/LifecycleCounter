@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lifecycle Counter</string>
+    <string name="template">%s\n%s\n%s\n%s\n%s\n%s\n%s</string>
+    <string name="text2">%s called %d time(s) this run, and %d time(s) overall</string>
+    <string name="sharedprefs">com.trap1.lifecyclecounter.sharedprefs</string>
+    <string name="sp1">com.trap1.lifecyclecounter.created</string>
+    <string name="sp2">com.trap1.lifecyclecounter.started</string>
+    <string name="sp3">com.trap1.lifecyclecounter.resumed</string>
+    <string name="sp4">com.trap1.lifecyclecounter.paused</string>
+    <string name="sp5">com.trap1.lifecyclecounter.stopped</string>
+    <string name="sp6">com.trap1.lifecyclecounter.restarted</string>
+    <string name="sp7">com.trap1.lifecyclecounter.destroyed</string>
+
+
+</resources>
